@@ -1,0 +1,4 @@
+{
+  "name": "cursor",
+  "install": "[ ! -d '/agent/repos/cursor' ] || cd '/agent/repos/cursor' || exit $?\ntest -f README.md"
+}
